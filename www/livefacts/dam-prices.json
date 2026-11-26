@@ -2,7 +2,7 @@
   "source": "Bangladesh Department of Agricultural Marketing (DAM) public summary",
   "source_url": "https://market.dam.gov.bd/?L=E",
   "report_date": null,
-  "fetched_at": "2026-11-25T10:50:31.111Z",
+  "fetched_at": "2026-11-26T10:24:48.507Z",
   "parser": "DAM summary range parser v1",
   "unit_note": "Commodity units were not captured by this parser; check the official report before comparing quantity-based prices.",
   "items": [
